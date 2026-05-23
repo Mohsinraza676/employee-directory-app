@@ -49,11 +49,7 @@ Nothing too fancy, but everything works the way it should.
 
 ## Demo
 
-[
-
 https://github.com/user-attachments/assets/6347824b-80b2-4e0a-9636-dc25ce6bf748
-
-]
 
 ---
 

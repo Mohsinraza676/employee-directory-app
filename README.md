@@ -30,22 +30,30 @@ Nothing too fancy, but everything works the way it should.
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](screenshots/splash_screen.png)
+![Splash Screen](<img width="1080" height="2436" alt="1000127425" src="https://github.com/user-attachments/assets/2d37647e-9211-4bc5-b942-4112ec6ec0fb" />
+)
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](<img width="1080" height="2436" alt="1000127427" src="https://github.com/user-attachments/assets/b2287697-58dc-4f07-8c34-2c86aba7ad0c" />
+)
 
 ### Profile Screen
-![Profile Screen](screenshots/profile_screen.png)
+![Profile Screen](<img width="1080" height="2436" alt="1000127428" src="https://github.com/user-attachments/assets/736a401c-7690-4918-aac2-06853217953b" />
+)
 
 ### Error Screen
-![Error Screen](screenshots/error_screen.png)
+![Error Screen](<img width="1080" height="2436" alt="1000127437" src="https://github.com/user-attachments/assets/8b113532-94cf-4a71-8522-6499526074cf" />
+)
 
 ---
 
 ## Demo
 
-[Add Demo Video Link Here]
+[
+
+https://github.com/user-attachments/assets/6347824b-80b2-4e0a-9636-dc25ce6bf748
+
+]
 
 ---
 

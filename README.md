@@ -30,20 +30,21 @@ Nothing too fancy, but everything works the way it should.
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](<img width="1080" height="2436" alt="1000127425" src="https://github.com/user-attachments/assets/2d37647e-9211-4bc5-b942-4112ec6ec0fb" />
-)
+![<img width="1080" height="2436" alt="1000127425" src="https://github.com/user-attachments/assets/6e04bede-1004-4b64-9e93-d1fcb18fdaa4" />
+] 
+
 
 ### Home Screen
-![Home Screen](<img width="1080" height="2436" alt="1000127427" src="https://github.com/user-attachments/assets/b2287697-58dc-4f07-8c34-2c86aba7ad0c" />
-)
+![<img width="1080" height="2436" alt="1000127427" src="https://github.com/user-attachments/assets/62653797-fed4-415b-a9d6-60c387630a64" />
+]
 
 ### Profile Screen
-![Profile Screen](<img width="1080" height="2436" alt="1000127428" src="https://github.com/user-attachments/assets/736a401c-7690-4918-aac2-06853217953b" />
-)
+![<img width="1080" height="2436" alt="1000127428" src="https://github.com/user-attachments/assets/f4fc0ce7-762f-485f-81e7-01804aef698c" />
+]
 
 ### Error Screen
-![Error Screen](<img width="1080" height="2436" alt="1000127437" src="https://github.com/user-attachments/assets/8b113532-94cf-4a71-8522-6499526074cf" />
-)
+![<img width="1080" height="2436" alt="1000127437" src="https://github.com/user-attachments/assets/b7579908-c650-4a33-87f4-e51248a65ec6" />
+]
 
 ---
 
